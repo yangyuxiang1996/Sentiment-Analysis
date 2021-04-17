@@ -9,7 +9,7 @@ __pycache__/
 word_vec.txt
 word2id.txt
 *.DS_Store
-
+saved_model/
 # C extensions
 *.so
 
